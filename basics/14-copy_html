@@ -1,2 +1,2 @@
 #!/bin/bash 
-cp -rua *.hmtl ../ 
+cp -u *.hmtl ..
