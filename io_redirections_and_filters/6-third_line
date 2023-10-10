@@ -1,2 +1,2 @@
 #!/bin/bash
-head -n 3 my.txt | tail -n 1 iacta 
+head -n 3 my.txt | tail -n 1 /iacta 
