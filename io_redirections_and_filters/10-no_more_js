@@ -1,2 +1,2 @@
 #!/bin/bash
-file -f *.js
+find -f *.js
